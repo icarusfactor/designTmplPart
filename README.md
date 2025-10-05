@@ -23,7 +23,7 @@ emails look amazing.
  Example Raw Github URL to put into Setting page entry. Will make a mult part file method at some point.
 For group parts for styles. 
 
- Exmaple FIXED template document:
+ Example FIXED template document:
  https://raw.githubusercontent.com/icarusfactor/designTmplPart/refs/heads/main/template/basic_invoice.rcdt
 
  Example DYNAMIC template document:
