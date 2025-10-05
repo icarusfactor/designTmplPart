@@ -31,4 +31,5 @@ For group parts for styles.
 
  Example Part:
  https://raw.githubusercontent.com/icarusfactor/designTmplPart/refs/heads/main/part/basic_2col1line.rcdp             
-~               
+
+
