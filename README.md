@@ -30,6 +30,5 @@ For group parts for styles.
  https://raw.githubusercontent.com/icarusfactor/designTmplPart/refs/heads/main/template/basic_newsletter.rcdt
 
  Example Part:
- https://raw.githubusercontent.com/icarusfactor/designTmplPart/refs/heads/main/template/basic_newsletter.rcdt
-~             
+ https://raw.githubusercontent.com/icarusfactor/designTmplPart/refs/heads/main/part/basic_2col1line.rcdp             
 ~               
