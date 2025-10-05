@@ -11,12 +11,12 @@ the core Design plugin from growing out of control from template and
 parts and want to have many items here to import and use to make your
 emails look amazing. 
 
-### To import these part into RoundCube Design 0.9.3+
- Option 1:
+### To import these part into RoundCube Design 
+ Option 1:(Design v0.9.2+)
   Download and import them manually within visual editor in DYNAMIC
   document mode. 
 
- Option 2:
+ Option 2:(Design v0.9.3+)
   Place github url into the Settings window import URL rcdt or rcdp
   entry and click left side button.
 
