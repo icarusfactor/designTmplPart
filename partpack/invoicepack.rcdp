@@ -39,7 +39,7 @@
 </div>
 <!-- Dual Column Single Line End -->
 </div>
-[root@host part]# cat basic_2col4lineLImg.rcdp
+
 <div id="rcd_container">
 <!-- TITLE:2 Col 4 Ln L Img: Begin -->
 <div id="rcd_div" style="margin: 0px; background: none repeat scroll 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; max-width: 798px;">
@@ -90,6 +90,8 @@
 </div>
 <!-- Dual Column 4 Line End -->
 </div>
+
+<div id="rcd_container">
 <!-- TITLE:2 Col 4 Ln R Img: Begin -->
 <div id="rcd_div" style="margin: 0px; background: none repeat scroll 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; max-width: 798px;">
          
