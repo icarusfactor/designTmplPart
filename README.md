@@ -1,7 +1,7 @@
 ### designTmplPart
 Repository for core and extra templates &amp; parts for RoundCube Design Plugin.
 
-### Version 1.0.1
+### Version 1.1.0
 
 Most items will be able to be set by the Design editor visual commands.
 Some of the experimental ones you will need to use the HTML code option
@@ -20,6 +20,9 @@ emails look amazing.
   Place github url into the Settings window import URL rcdt or rcdp
   entry and click left side button.
 
+ Option 3:(Design v0.9.5+)
+  To install part packs, place github URL into the Settings window import URL rcdp. Packs only work via URL currently.   
+
  Example Raw Github URL to put into Setting page entry. Will make a mult part file method at some point.
 For group parts for styles. 
 
@@ -32,4 +35,5 @@ For group parts for styles.
  Example Part:
  https://raw.githubusercontent.com/icarusfactor/designTmplPart/refs/heads/main/part/basic_2col1line.rcdp             
 
-
+ Example Part Pack:
+ https://raw.githubusercontent.com/icarusfactor/designTmplPart/refs/heads/main/partpack/invoicepack.rcdp
