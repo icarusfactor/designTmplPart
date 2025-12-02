@@ -1,7 +1,7 @@
 ### designTmplPart
 Repository for core and extra templates &amp; parts for RoundCube Design Plugin.
 
-### Version 1.1.1
+### Version 1.2.0
 
 Most items will be able to be set by the Design editor visual commands.
 Some of the experimental ones you will need to use the HTML code option
