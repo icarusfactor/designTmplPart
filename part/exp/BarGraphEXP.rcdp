@@ -1,0 +1,33 @@
+<div id="rcd_container" ><!-- TITLE:BarGraphEXP: Begin -->
+<div id="rcd_div" style="margin: 0px; background: none repeat scroll 0%; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; max-width: 798px;">
+
+<style class="drag-part">
+/* TYPE:EXPERIMENTAL: Experimental Part, graph values are managed here , not from the visual editor. */
+/* If you add bar graph items you'll have to continue the numbering scheme i.e percentageN */
+.percentage1 { background-color: black;width: 10%; }
+.percentage2 { background-color: black;width: 60%; }
+.percentage3 { background-color: black;width: 40%; }
+.percentage4 { background-color: black;width: 70%; }
+</style>
+
+          <table width="100%" cellspacing="0" cellpadding="0" border="0" align="center" style="max-width:600px; width:100%;" class="">
+            <tbody>
+            <tr>
+            <td width="100%" align="left" valign="middle" style="font-size: 12px; padding: 0px 15px; border: none; background-color: none;">
+            
+<dl>
+  <dt style="font-size: 20px;text-align:center;">TITLE OF GRAPH</dt>
+  <dd class="percentage1"><font color="#ffffff" style="background-color: rgb(0, 0, 0);"> Section A </font></dd>
+  <dd class="percentage2"><font color="#ffffff" style="background-color: rgb(0, 0, 0);"> Section B </font></dd>
+  <dd class="percentage3"><font color="#ffffff" style="background-color: rgb(0, 0, 0);"> Section C </font></dd>
+  <dd class="percentage4"><font color="#ffffff" style="background-color: rgb(0, 0, 0);"> Section D </font></dd>
+</dl>
+
+
+            </td>
+            </tr>
+          </tbody>
+          </table>
+
+</div><!-- Part End -->
+</div>
