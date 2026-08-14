@@ -1,15 +1,19 @@
 ### designTmplPart
-Repository for core and extra templates &amp; parts for RoundCube Design Plugin.
+Repository for core and extra templates &amp; parts and decor for RoundCube Design Plugin.
 
-### Version 1.3.1
+### Version 1.4.0
 
 Most items will be able to be set by the Design editor visual commands.
-Soe of the experimental(EXP) ones you will need to use the HTML code option
-of the editor to tweak sizes &amp; colors. This give you templates that
+Some of the experimental(EXP) ones you will need to use the HTML code option
+of the editor to tweak sizes &amp; colors. This gives you templates that
 would be much harder to add otherwise. This repo also keeps the size of
 the core Design plugin from growing out of control from template and 
-parts and want to have many items here to import and use to make your
+parts and decor to have many items here to import and use to make your
 emails look amazing. 
+
+### When adding custom text section you have to enable it with css style element tag. 
+
+ &lt; div style="font-size: 15px; line-height: 24px; color: rgb(0, 0, 0);" align="left" &gt;
 
 ### To import these part into RoundCube Design 
  Option 1:(Design v0.9.2+)
@@ -41,5 +45,10 @@ For group parts for styles.
  Example Experimental Part: 
 
  https://raw.githubusercontent.com/icarusfactor/designTmplPart/refs/heads/main/part/exp/BarGraphEXP.rcdp
+
+Example decor: (These items are not actual templates or parts but pieces to be used with a part. )
+
+ https://raw.githubusercontent.com/icarusfactor/designTmplPart/refs/heads/main/decor/FancyLines.rcdt
+
 
 
