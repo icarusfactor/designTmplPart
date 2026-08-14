@@ -13,7 +13,7 @@ emails look amazing.
 
 ### When adding custom text section you have to enable it with css style element tag. 
 
- &lt; div style="font-size: 15px; line-height: 24px; color: rgb(0, 0, 0);" align="left" &gt;
+ &lt; div style="font-size: 15px; line-height: 24px; color: rgb(0, 0, 0);" &gt;
 
 ### To import these part into RoundCube Design 
  Option 1:(Design v0.9.2+)
